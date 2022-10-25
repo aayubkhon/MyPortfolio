@@ -82,7 +82,7 @@ const Header = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/ayubkhon-akramov-9280b6235"
             >
               Linkedin <Linkedin size={30} />
             </a>
@@ -90,7 +90,7 @@ const Header = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/aayubkhon"
             >
               GitHub <Github size={30} />
             </a>
@@ -106,7 +106,7 @@ const Header = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="file:///C:/Users/hi/Downloads/Telegram%20Desktop/My%20Portfolo.pdf"
             >
               Resume <FilePersonFill size={30} />
             </a>
